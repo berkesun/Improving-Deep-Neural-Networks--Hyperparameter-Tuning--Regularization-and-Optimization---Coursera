@@ -1,2 +1,1 @@
-# Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - Coursera
- 
+https://www.coursera.org/account/accomplishments/certificate/XQAETNXT7G38
